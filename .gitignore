@@ -26,5 +26,4 @@ package-lock.json
 src/static_files/docs/
 src/static_files/docs_all/
 
-.env
 .deta
