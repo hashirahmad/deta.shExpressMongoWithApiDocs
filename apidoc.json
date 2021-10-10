@@ -1,0 +1,19 @@
+{
+  "name": "Hello World",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "title": "Hello World",
+  "url" 		: "",
+  "sampleUrl": "DYNAMIC",
+  "header": {
+    "title": "Overview",
+    "filename": "src/templates/apidocs_template/header.md"
+  },
+  "footer": {
+    "filename": "src/templates/apidocs_template/footer.md"
+  },
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}

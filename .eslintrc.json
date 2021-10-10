@@ -1,0 +1,50 @@
+{
+    "env": {
+      "commonjs": true,
+      "es6": true,
+      "node": true
+    },
+    "extends": ["airbnb-base", "plugin:prettier/recommended", "plugin:node/recommended"],
+    "globals": {
+      "Atomics": "readonly",
+      "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+      "ecmaVersion": 2018
+    },
+    "plugins": ["prettier"],
+    "rules": {
+      "prettier/prettier": "error",
+      "no-unused-vars": "error",
+      "no-console": "off",
+      "func-names": "off",
+      "no-plusplus": "warn",
+      "no-process-exit": "off",
+      "class-methods-use-this": "error",
+      "padded-blocks": 2,
+      "indent": ["error", 4],
+      "no-mixed-spaces-and-tabs": [
+        2, "smart-tabs"
+      ],
+      // "brace-style": ["error", "allman", { "allowSingleLine": true }],
+      "no-irregular-whitespace": "error",
+      "no-sparse-arrays": "error",
+      "comma-style": ["error", "last"],
+      "global-require": "error",
+      "no-unsafe-finally": "error",
+      "no-unsafe-negation": "error",
+      "no-unexpected-multiline": "error",
+      "no-multi-spaces": "error",
+      "no-lone-blocks": "error",
+      "no-invalid-regexp": "error",
+      "no-import-assign": "error"
+      // "space-in-brackets": ["error", "always", {
+      //   "singleValue": true,
+      //   "objectsInArrays": true,
+      //   "arraysInArrays": true,
+      //   "arraysInObjects": true,
+      //   "objectsInObjects": true,
+      //   "propertyName": true
+      // }]
+    }
+}
