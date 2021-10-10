@@ -10,6 +10,10 @@ Basically, this is a boilerplate of:
 
 for `deta.sh`. *Although, pretty sure, it will also work for other platforms too*.
 
+## Demo
+
+Something like this: [helloworld](https://helloworld.hashir.pro)
+
 ## Deta.sh
 
 Get to know what [Deta.sh](https://www.deta.sh/) **really** is.
