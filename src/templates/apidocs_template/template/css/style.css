@@ -39,7 +39,7 @@ td.code {
 }
 
 p {
-  color: #808080;
+  color: #191000;
 }
 
 h1 {
@@ -600,7 +600,7 @@ p.deprecated span{
     background-color: #ffffff;
     color: #000000;
     padding: 10px;
-    border: #808080 1px solid;
+    border: #191000 1px solid;
     border-radius: 6px;
     position: relative;
     margin: 10px 0 20px 0;
