@@ -312,7 +312,7 @@ pre code.sample-request-response-json {
 	width: 190px;
 	font-family: "suez_oneregular", "Source Sans Pro", sans-serif;
 	font-size: 16px;
-	background: linear-gradient(15deg, rgba(192, 108, 132, 0.45) 0%, rgba(108, 91, 123, 0.45) 100%) !important;
+	background: linear-gradient(15deg, rgba(140, 88, 66, 0.45) 0%, rgba(154, 68, 75, 0.45) 100%) !important;
 	color: #000000;
 	margin-top: 30px;
 }
@@ -450,7 +450,7 @@ tr.del td {
 .container1 > div, .container2 > div, .container3 > div {
   width: 14px;
   height: 14px;
-  background: linear-gradient(15deg, rgba(248, 177, 149, 0.45) 0%, rgba(246, 114, 128, 0.45) 100%) !important;
+  background: linear-gradient(15deg, rgba(151, 101, 112, 0.45) 0%, rgba(125, 115, 129, 0.45) 100%) !important;
 
   border-radius: 100%;
   position: absolute;
@@ -688,10 +688,10 @@ p.deprecated span{
 }
 
 .container-fluid {
-  background: linear-gradient(15deg, rgba(248, 177, 149, 0.45) 0%, rgba(246, 114, 128, 0.45) 100%) !important;
+  background: linear-gradient(15deg, rgba(140, 88, 66, 0.45) 0%, rgba(154, 68, 75, 0.45) 100%) !important;
   border-radius: 15px;
 }
 
 .sidenav {
-  background: linear-gradient(15deg, rgba(192, 108, 132, 0.45) 0%, rgba(108, 91, 123, 0.45) 100%) !important;
+  background: linear-gradient(15deg, rgba(151, 101, 112, 0.45) 0%, rgba(125, 115, 129, 0.45) 100%) !important;
 }
